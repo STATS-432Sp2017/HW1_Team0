@@ -1,7 +1,11 @@
-Homework 1 - [Your team name here]
-========================================================
+---
+title: "Homework 1"
+author: "[Your team name here]"
+date: "Due Jan. 26, 2017"
+---
 
-### Task 1 - Implementation
+
+## Task 1 - Implementation
 
 <!--
 Use this section to implement the fizzbuzz function.
@@ -18,7 +22,7 @@ fizzbuzz = function(v)
 }
 ```
 
-### Task 2 - Validation
+## Task 2 - Validation
 
 <!--
 Use this section to show the output of your 
@@ -38,4 +42,3 @@ fizzbuzz(Inf)
 fizzbuzz("A")
 fizzbuzz(1.5)
 ```
-
